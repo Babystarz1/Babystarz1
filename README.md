@@ -168,9 +168,9 @@
 </p>
  -->
 <!-- Ending -->
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="banner_end.png" alt="Wall-E GIF" style="width:auto; height:auto" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+<img src="rainbow.gif" width="100%" height="1" />
 
 <p align="center">
   Designed with 🖤 by <strong>@Babystarz1.</strong>
